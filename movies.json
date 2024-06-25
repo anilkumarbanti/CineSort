@@ -1,0 +1,26 @@
+ [{
+        "movieName": "Geetha Govindam",
+        "movieId": 103,
+        "movieRating": 8.7,
+        "movieYear": 2018
+    },
+    {
+        "movieName": "Tholi Prema",
+        "movieId": 101,
+        "movieRating": 8.2,
+        "movieYear": 1998
+    },
+    {
+        "movieName": "Arjun Reddy",
+        "movieId": 104,
+        "movieRating": 8.4,
+        "movieYear": 2017
+    },
+    {
+        "movieName": "Majili",
+        "movieId": 102,
+        "movieRating": 8.5,
+        "movieYear": 2019
+    }
+]
+
