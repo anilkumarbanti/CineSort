@@ -1,0 +1,26 @@
+ [{
+        "cineName": "Geetha Govindam",
+        "cineId": 103,
+        "cineRating": 8.7,
+        "cineYear": 2018
+    },
+    {
+        "cineName": "Tholi Prema",
+        "cineId": 101,
+        "cineRating": 8.2,
+        "cineYear": 1998
+    },
+    {
+        "cineName": "Arjun Reddy",
+        "cineId": 104,
+        "cineRating": 8.4,
+        "cineYear": 2017
+    },
+    {
+        "cineName": "Majili",
+        "cineId": 102,
+        "cineRating": 8.5,
+        "cineYear": 2019
+    }
+]
+
